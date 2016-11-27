@@ -2,8 +2,9 @@
 create new project from internet
 * mvn archetype:generate
 
-# Build #
+# Build with and without clean #
 * mvn package
+* mvn clean package
 
 # Delete target directory #
 * mvn clean
