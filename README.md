@@ -1,4 +1,4 @@
-# belajar-maven
+# belajar-maven #
 create new project from internet
 
-mvn archetype:generate
+* mvn archetype:generate
