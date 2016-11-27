@@ -1,10 +1,13 @@
 # belajar-maven #
 create new project from internet
 * mvn archetype:generate
-Build
+
+# Build #
 * mvn package
-Delete target directory
+
+# Delete target directory #
 * mvn clean
-run main class 
+
+# run main class #
 * mvn exec:java -Dexecjava=com.wordpress.sarungpandan.hello.App
 
