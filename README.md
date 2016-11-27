@@ -1,6 +1,8 @@
 # belajar-maven
 create new project from internet
+
 mvn archetype:generate
+
 Output : Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains):
 enter
 Choose org.apache.maven.archetypes:maven-archetype-quickstart version: 
